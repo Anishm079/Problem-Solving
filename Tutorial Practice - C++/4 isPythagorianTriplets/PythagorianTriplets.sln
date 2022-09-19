@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PythagorianTriplets", "PythagorianTriplets.vcxproj", "{B48C35AE-6F48-4FA7-8939-92D8B433518B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B48C35AE-6F48-4FA7-8939-92D8B433518B}.Debug|x64.ActiveCfg = Debug|x64
+		{B48C35AE-6F48-4FA7-8939-92D8B433518B}.Debug|x64.Build.0 = Debug|x64
+		{B48C35AE-6F48-4FA7-8939-92D8B433518B}.Debug|x86.ActiveCfg = Debug|Win32
+		{B48C35AE-6F48-4FA7-8939-92D8B433518B}.Debug|x86.Build.0 = Debug|Win32
+		{B48C35AE-6F48-4FA7-8939-92D8B433518B}.Release|x64.ActiveCfg = Release|x64
+		{B48C35AE-6F48-4FA7-8939-92D8B433518B}.Release|x64.Build.0 = Release|x64
+		{B48C35AE-6F48-4FA7-8939-92D8B433518B}.Release|x86.ActiveCfg = Release|Win32
+		{B48C35AE-6F48-4FA7-8939-92D8B433518B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9F8EE7D-7316-484A-A781-051534DFE50E}
+	EndGlobalSection
+EndGlobal

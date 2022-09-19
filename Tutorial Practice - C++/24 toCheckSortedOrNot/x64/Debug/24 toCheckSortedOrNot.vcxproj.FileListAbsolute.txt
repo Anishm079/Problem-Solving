@@ -1,0 +1,1 @@
+C:\Users\anish\Documents\Programs by anish\Tutorial Practice - C++\24 toCheckSortedOrNot\x64\Debug\24 toCheckSortedOrNot.exe

@@ -1,0 +1,3 @@
+﻿  OctalToDecimal.cpp
+C:\Users\anish\Documents\Programs by anish\Tutorial Practice - C++\OctalToDecimal\OctalToDecimal.cpp(11,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  OctalToDecimal.vcxproj -> C:\Users\anish\Documents\Programs by anish\Tutorial Practice - C++\OctalToDecimal\x64\Debug\OctalToDecimal.exe

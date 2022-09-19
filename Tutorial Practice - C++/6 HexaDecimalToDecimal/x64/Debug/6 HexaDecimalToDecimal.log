@@ -1,0 +1,5 @@
+﻿  6 HexaDecimalToDecimal.cpp
+C:\Users\anish\Documents\Programs by anish\Tutorial Practice - C++\6 HexaDecimalToDecimal\6 HexaDecimalToDecimal.cpp(8,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anish\Documents\Programs by anish\Tutorial Practice - C++\6 HexaDecimalToDecimal\6 HexaDecimalToDecimal.cpp(11,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\anish\Documents\Programs by anish\Tutorial Practice - C++\6 HexaDecimalToDecimal\6 HexaDecimalToDecimal.cpp(14,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  6 HexaDecimalToDecimal.vcxproj -> C:\Users\anish\Documents\Programs by anish\Tutorial Practice - C++\6 HexaDecimalToDecimal\x64\Debug\6 HexaDecimalToDecimal.exe
