@@ -32,9 +32,9 @@ public class findElementInSortedAndRotatedArray {
     static void findElement(int arr[],int X){
         int mid=findPivot(arr);
         int low=0,high=arr.length-1;
-        System.out.println("low : "+low+" mid: "+mid+" High: "+high);
+        System.out.println("low :"+low+" mid:"+mid+" High:"+high);
         binarySearch(arr,low,mid,X);
-        binarySearch(arr,mid,high,X);
+        binarySearch(arr,mid+1,high,X);
 //        check1=check2|check1;
 //        return (check1);
     }
