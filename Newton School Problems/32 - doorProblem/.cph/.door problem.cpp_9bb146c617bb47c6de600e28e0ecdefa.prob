@@ -1,0 +1,1 @@
+{"name":"Local: door problem","url":"d:\\Door Problem\\door problem.cpp","tests":[{"id":1663850230207,"input":"5\n0 0 1 2 2\n0 1 1 0 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Door Problem\\door problem.cpp","group":"local","local":true}
